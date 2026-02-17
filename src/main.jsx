@@ -88,8 +88,8 @@ const appId =
 
 // --- LINE Login 配置 ---
 const LINE_CONFIG = {
-  channelId: '2009107386', // 已更新為您的 Channel ID
-  channelSecret: 'e8bfaf293a6891616371948957271f5f', // 請在此填入您的 Channel Secret
+  channelId: '', // 已更新為您的 Channel ID
+  channelSecret: '', // 請在此填入您的 Channel Secret
   redirectUri: window.location.origin + window.location.pathname,
 };
 
